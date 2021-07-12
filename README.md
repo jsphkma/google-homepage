@@ -1,4 +1,5 @@
 First project: To recreate Google homepage to the best of my ability
+
 Thiings I have learned along the way creating this: 
 1. This was a bit of challenge due to time restrictions working full time.
 2. Project was fun. I do have some html and css experience so this is a nice refresher for me.
