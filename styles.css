@@ -60,7 +60,7 @@ form {
     cursor: pointer;
 }
 
-/* List items */
+/* List items styling*/
 
 
 li {
@@ -87,7 +87,7 @@ li a:hover {
 
 
 
-/* footer */
+/* footer at the bottom of the page */
 
 footer {
     background-color:#f2f2f2;
@@ -115,7 +115,7 @@ footer {
     float: left;
     padding-left: 20px;
 }
-/* Nav bar */
+/* main nav bar*/
 
 .nav {
 padding-top: 20px;
@@ -132,7 +132,7 @@ padding-right: 20px;
 }
 
 
-/* buttons */
+/* google homepage buttons*/
 
 .searchbutton {
     background-color:#f1ededec;
